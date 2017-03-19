@@ -1,4 +1,10 @@
 <keymap version="1" name="Emacs copy 0" parent="Emacs">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="alt x" />
@@ -13,7 +19,9 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
-  <action id="CloseActiveTab" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
@@ -21,10 +29,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -35,7 +48,6 @@
   <action id="EditorKillRegion" />
   <action id="EditorKillRingSave" />
   <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt f" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl f" />
   </action>
   <action id="EditorPageUp">
@@ -87,8 +99,12 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="RemoteHostView.CopyPaths" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
@@ -101,6 +117,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Spy-js.JumpToCaller">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f12" />
