@@ -4,12 +4,27 @@
     <keyboard-shortcut first-keystroke="alt x" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
-    <keyboard-shortcut first-keystroke="alt w" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -30,33 +45,69 @@
     <keyboard-shortcut first-keystroke="alt b" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl b" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="shift ctrl 2" />
     <keyboard-shortcut first-keystroke="ctrl at" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="InsertLiveTemplate" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
     <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="TableResult.GrowSelection" />
+  <action id="TagDocumentationNavigation" />
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
 </keymap>
