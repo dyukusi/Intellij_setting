@@ -6,6 +6,7 @@
       <mapping pattern="MasterMissMerge" type="PLAIN_TEXT" />
       <mapping pattern="MorningMTG" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
+      <mapping pattern="bnet_api_profile_response_example" type="PLAIN_TEXT" />
       <mapping pattern="MagicBradeRapidFire" type="PLAIN_TEXT" />
       <mapping pattern="ApplyMasterDataInWorkFolder" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
