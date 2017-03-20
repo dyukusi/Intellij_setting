@@ -13,6 +13,10 @@
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
@@ -41,6 +45,9 @@
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
