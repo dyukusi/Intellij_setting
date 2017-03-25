@@ -32,6 +32,11 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
@@ -89,6 +94,9 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="GuiDesigner.ShrinkSelection" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
