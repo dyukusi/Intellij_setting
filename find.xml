@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pm" />
+    <option name="FILE_MASK" value="*.pm, *.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,8 +17,8 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.js, *.pm</mask>
-      <mask>*.pm, *.js</mask>
       <mask>*.pm</mask>
+      <mask>*.pm, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
