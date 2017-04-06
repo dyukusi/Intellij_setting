@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="higememo" type="PLAIN_TEXT" />
       <mapping pattern="MagicBradeRapidFire" type="PLAIN_TEXT" />
       <mapping pattern="MasterMissMerge" type="PLAIN_TEXT" />
