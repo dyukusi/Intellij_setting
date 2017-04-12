@@ -123,6 +123,13 @@
         <option name="FOREGROUND" value="99968b" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="4475ff" />
+        <option name="EFFECT_COLOR" value="3e66ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -418,6 +425,12 @@
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffeb00" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
