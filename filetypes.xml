@@ -10,6 +10,7 @@
       <mapping pattern="ApplyMasterDataInWorkFolder" type="PLAIN_TEXT" />
       <mapping pattern="summary" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
+      <mapping pattern="diff_check" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="ladder_profile_response_example" type="PLAIN_TEXT" />
       <mapping pattern="access_structure" type="PLAIN_TEXT" />
