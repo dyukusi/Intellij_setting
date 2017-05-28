@@ -1,44 +1,44 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="TestScope" />
+    <option name="defaultScopeName" value="TestScope" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pm, *.js" />
+    <option name="SEARCH_SCOPE" value="TestScope" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js</mask>
-      <mask>*.js, *.pm</mask>
-      <mask>*.js, *.pm, *.t</mask>
-      <mask>*.js, *.pm, *.t, *.pl</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html,</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html,</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html, *</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html, *.</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html, *.t</mask>
+      <mask>*.pm, *.js, .*[</mask>
+      <mask>*.pm, *.js, .*[s</mask>
+      <mask>*.pm, *.js, .*[sta</mask>
+      <mask>*.pm, *.js, .*[stat</mask>
+      <mask>*.pm, *.js, .*[stati</mask>
+      <mask>*.pm, *.js, .*[static</mask>
+      <mask>*.pm, *.js, .*[^static</mask>
+      <mask>*.pm, *.js, .*[^static]</mask>
+      <mask>*.pm, *.js, .*[^static].</mask>
+      <mask>*.pm, *.js, .*[^static].*</mask>
+      <mask>*.pm, *.js, .*[^static/].*</mask>
+      <mask>*.pm, *.js, .[^static/].*</mask>
+      <mask>*.pm, *.js, [^static/].*</mask>
+      <mask>*.pm, *.js, [^static//].*</mask>
+      <mask>*.pm, *.js,</mask>
+      <mask>st</mask>
+      <mask>*.pm, *.js, ^(?!.*static).+$</mask>
+      <mask>stat</mask>
+      <mask>static/</mask>
+      <mask>static</mask>
+      <mask>stati</mask>
+      <mask>s</mask>
       <mask>*.js, *.pm, *.t, *.pl, *.html, *.tt</mask>
-      <mask>*.pm, *.t, *.pl, *.html, *.tt</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm, *</mask>
-      <mask>*.pm, *.</mask>
-      <mask>*.pm, *.j</mask>
-      <mask>*.pm, *.js, *</mask>
-      <mask>*.pm, *.js,</mask>
-      <mask>*.pm, *.js,</mask>
-      <mask>*.pm, *.js</mask>
+      <mask>*.js, *.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>+.js</mask>
+      <mask>.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
