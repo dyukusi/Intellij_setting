@@ -7,13 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="TestScope" />
-    <option name="FILE_MASK" value="*.js, *.pm" />
     <recentFileMasks>
-      <mask>*.j*.pm, *.t, *.pl, *.html, *.tt</mask>
-      <mask>*.js*.pm, *.t, *.pl, *.html, *.tt</mask>
-      <mask>*.js,*.pm, *.t, *.pl, *.html, *.tt</mask>
-      <mask>*.js, *.pm, *.t, *.pl, *.html, *.tt</mask>
-      <mask>*.pm, *.t, *.pl, *.html, *.tt</mask>
       <mask>*.pm, *.t, *.pl, *.html, *.tt</mask>
       <mask>*.pm</mask>
       <mask>*.pm,</mask>
@@ -36,9 +30,14 @@
       <mask>*.js,</mask>
       <mask>*.js, *</mask>
       <mask>*.js, *.</mask>
-      <mask>*.js, *.pm,</mask>
-      <mask>*.js, *.pm,</mask>
       <mask>*.js, *.pm</mask>
+      <mask>*.js, *.pm,</mask>
+      <mask>*.js, *.pm, :</mask>
+      <mask>*.js, *.pm,</mask>
+      <mask>*.js, *.pm, *</mask>
+      <mask>*.js, *.pm, *.</mask>
+      <mask>*.js, *.pm, *.tt</mask>
+      <mask>*.js, *.pm, *.t</mask>
     </recentFileMasks>
   </component>
 </application>
