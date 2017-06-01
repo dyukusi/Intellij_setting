@@ -1,27 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="TestScope" />
+    <option name="defaultScopeName" value="TestScope" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pm, *.pl" />
+    <option name="SEARCH_SCOPE" value="TestScope" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>stat</mask>
-      <mask>static/</mask>
-      <mask>static</mask>
-      <mask>stati</mask>
-      <mask>s</mask>
-      <mask>*.js, *.</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>+.js</mask>
       <mask>.js</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>:</mask>
       <mask>.</mask>
@@ -40,7 +30,15 @@
       <mask>*.pm, *</mask>
       <mask>*.pm, *.</mask>
       <mask>*.pm, *.p</mask>
+      <mask>*.pm, *.pl.</mask>
       <mask>*.pm, *.pl</mask>
+      <mask>*.pm, *.pl,</mask>
+      <mask>*.pm, *.pl,</mask>
+      <mask>*.pm, *.pl, *</mask>
+      <mask>*.pm, *.pl, *.</mask>
+      <mask>*.pm, *.pl, *.j</mask>
+      <mask>*.pm, *.pl, *.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
