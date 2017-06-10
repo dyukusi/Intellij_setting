@@ -23,7 +23,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="CommentByBlockComment">
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="Console.TableResult.AddColumn" />

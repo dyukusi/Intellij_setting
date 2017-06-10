@@ -60,6 +60,11 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="f900e5" />
+      </value>
+    </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="323232" />
@@ -596,6 +601,11 @@
         <option name="FOREGROUND" value="d46b" />
       </value>
     </option>
+    <option name="PERL_DX_STRING">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+      </value>
+    </option>
     <option name="PERL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b85dd5" />
@@ -628,6 +638,11 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="PERL_REGEX_TOKEN">
+      <value>
+        <option name="BACKGROUND" value="4b4b4b" />
+      </value>
+    </option>
     <option name="PERL_SCALAR">
       <value>
         <option name="FOREGROUND" value="d65462" />
@@ -657,6 +672,12 @@
     <option name="PERL_SUB_DEFINITION">
       <value>
         <option name="FOREGROUND" value="54adfe" />
+      </value>
+    </option>
+    <option name="PERL_XSUB">
+      <value>
+        <option name="FOREGROUND" value="762ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
