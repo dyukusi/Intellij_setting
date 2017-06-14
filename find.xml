@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="ExcludeStaticFiles" />
+    <option name="defaultScopeName" value="ExcludeStaticFiles" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
+    <option name="FILE_MASK" value="*.js, *.pm" />
     <recentFileMasks>
-      <mask>*.pm, *.p</mask>
-      <mask>*.pm, *.pl.</mask>
       <mask>*.pm, *.pl</mask>
       <mask>*.pm, *.pl,</mask>
       <mask>*.pm, *.pl,</mask>
@@ -26,9 +25,6 @@
       <mask>*.js, *</mask>
       <mask>*.js, *.</mask>
       <mask>*.js, *.p</mask>
-      <mask>*.js, *.pm</mask>
-      <mask>*.js, *.pm,</mask>
-      <mask>*.js, *.pm,</mask>
       <mask>*.js, *.pm,</mask>
       <mask>*.js, *.pm, *</mask>
       <mask>*.js, *.pm, *.</mask>
@@ -36,6 +32,11 @@
       <mask>*.js, *.pm, *.sc</mask>
       <mask>*.js, *.pm, *.scs</mask>
       <mask>*.js, *.pm, *.scss</mask>
+      <mask>*.js, *.pm, s</mask>
+      <mask>*.js, *.pm,</mask>
+      <mask>*.js, *.pm,</mask>
+      <mask>*.js, *.pm,</mask>
+      <mask>*.js, *.pm</mask>
     </recentFileMasks>
   </component>
 </application>
