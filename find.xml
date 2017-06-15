@@ -8,7 +8,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
     <recentFileMasks>
-      <mask>*.js,</mask>
       <mask>*.js, *</mask>
       <mask>*.js, *.</mask>
       <mask>*.js, *.p</mask>
@@ -29,15 +28,16 @@
       <mask>*.pm =&gt;</mask>
       <mask>*.pm =</mask>
       <mask>*.pm, +</mask>
-      <mask>*.pm, *.js</mask>
       <mask>*.pm, *.j</mask>
-      <mask>*.pm, *.</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
       <mask>*.pm, *</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm</mask>
+      <mask>*.pm, *.</mask>
+      <mask>*.pm, *.js</mask>
+      <mask>*.pm, *.js,</mask>
     </recentFileMasks>
   </component>
 </application>
