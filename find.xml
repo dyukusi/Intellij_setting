@@ -3,15 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pm, *.js" />
+    <option name="FILE_MASK" value="*.pm" />
     <recentFileMasks>
-      <mask>*.js, s</mask>
-      <mask>*.js, *.pm, :</mask>
-      <mask>*.js, *.pm, *.tt</mask>
       <mask>*.js, *.pm, *.t</mask>
       <mask>*.js</mask>
       <mask>*.js,</mask>
@@ -33,12 +28,15 @@
       <mask>*.js, *.pm</mask>
       <mask>*.*.pm</mask>
       <mask>**.pm</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm,</mask>
       <mask>*.pm,</mask>
       <mask>*.pm, *</mask>
       <mask>*.pm, *.</mask>
       <mask>*.pm, *.js</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm =&gt;</mask>
+      <mask>*.pm =</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
