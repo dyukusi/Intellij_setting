@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="higememo" type="PLAIN_TEXT" />
-      <mapping pattern="party_set" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
       <mapping pattern="tech_summary" type="PLAIN_TEXT" />
       <mapping pattern="MagicBradeRapidFire" type="PLAIN_TEXT" />
       <mapping pattern="MasterMissMerge" type="PLAIN_TEXT" />
