@@ -7,11 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
-    <option name="FILE_MASK" value="*.pm" />
+    <option name="FILE_MASK" value="*.pm, *.js, *." />
     <recentFileMasks>
-      <mask>*.js, *.</mask>
-      <mask>*.js, *.p</mask>
-      <mask>*.js, *.pm,</mask>
       <mask>*.js, *.pm, *</mask>
       <mask>*.js, *.pm, *.</mask>
       <mask>*.js, *.pm, *.s</mask>
@@ -28,17 +25,20 @@
       <mask>*.pm =&gt;</mask>
       <mask>*.pm =</mask>
       <mask>*.pm, +</mask>
-      <mask>*.pm, *.j</mask>
       <mask>*.pm, *.js,</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm, .</mask>
+      <mask>*.pm,</mask>
       <mask>*.pm, *</mask>
       <mask>*.pm, *.</mask>
+      <mask>*.pm, *.j</mask>
       <mask>*.pm, *.js</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm</mask>
+      <mask>*.pm, *.js, *.</mask>
     </recentFileMasks>
   </component>
 </application>
