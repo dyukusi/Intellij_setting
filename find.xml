@@ -6,6 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
+    <option name="FILE_MASK" value="*.pm, *.js, *." />
     <recentFileMasks>
       <mask>*.js, *.pm, *</mask>
       <mask>*.js, *.pm, *.</mask>
