@@ -6,18 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
-    <option name="FILE_MASK" value="*.js, *.pm" />
     <recentFileMasks>
-      <mask>*.js, *.pm,</mask>
-      <mask>*.js, *.pm,</mask>
-      <mask>*.pm =&gt;</mask>
-      <mask>*.pm =</mask>
-      <mask>*.pm, +</mask>
-      <mask>*.pm, *.js,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm, .</mask>
-      <mask>*.pm,</mask>
       <mask>*.pm, *</mask>
       <mask>*.pm, *.</mask>
       <mask>*.pm, *.j</mask>
@@ -38,6 +27,16 @@
       <mask>*.js*.pm</mask>
       <mask>*.js,*.pm</mask>
       <mask>*.js, *.pm</mask>
+      <mask>10002</mask>
+      <mask>1000</mask>
+      <mask>^</mask>
+      <mask>^.*</mask>
+      <mask>^.</mask>
+      <mask>^.c</mask>
+      <mask>^.cs</mask>
+      <mask>^.csv</mask>
+      <mask>^[.csv</mask>
+      <mask>^[.csv]</mask>
     </recentFileMasks>
   </component>
 </application>
