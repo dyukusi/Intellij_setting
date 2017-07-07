@@ -6,28 +6,14 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
+    <option name="FILE_MASK" value="*.js, *.pm" />
     <recentFileMasks>
-      <mask>*.js, *.pm, *</mask>
-      <mask>*.js, *.pm, *.</mask>
-      <mask>*.js, *.pm, *.s</mask>
-      <mask>*.js, *.pm, *.sc</mask>
-      <mask>*.js, *.pm, *.scs</mask>
-      <mask>*.js, *.pm, *.scss</mask>
-      <mask>*.js, *.pm, s</mask>
       <mask>*.js, *.pm,</mask>
       <mask>*.js, *.pm,</mask>
-      <mask>*.js, *.pm,</mask>
-      <mask>*.js, *.pm</mask>
-      <mask>*.*.pm</mask>
-      <mask>**.pm</mask>
       <mask>*.pm =&gt;</mask>
       <mask>*.pm =</mask>
       <mask>*.pm, +</mask>
       <mask>*.pm, *.js,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
       <mask>*.pm, .</mask>
@@ -36,7 +22,22 @@
       <mask>*.pm, *.</mask>
       <mask>*.pm, *.j</mask>
       <mask>*.pm, *.js</mask>
+      <mask>*.pm, *.js,</mask>
+      <mask>*.pm, *.js, *</mask>
       <mask>*.pm, *.js, *.</mask>
+      <mask>*.pm, *.js, *.ht</mask>
+      <mask>*.pm, *.js, *.html</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm</mask>
+      <mask>**.pm</mask>
+      <mask>*.*.pm</mask>
+      <mask>*.j*.pm</mask>
+      <mask>*.js*.pm</mask>
+      <mask>*.js,*.pm</mask>
+      <mask>*.js, *.pm</mask>
     </recentFileMasks>
   </component>
 </application>
