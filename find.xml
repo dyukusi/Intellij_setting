@@ -1,42 +1,43 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="ExcludeStaticFiles" />
+    <option name="defaultScopeName" value="ExcludeStaticFiles" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="ExcludeStaticFiles" />
+    <option name="FILE_MASK" value="*.pm, *.js, *.pm, *.js, *.html" />
     <recentFileMasks>
+      <mask>.v</mask>
+      <mask>.</mask>
+      <mask>.p</mask>
+      <mask>.pm,</mask>
+      <mask>.pm, .</mask>
+      <mask>.pm,</mask>
+      <mask>.pm</mask>
+      <mask>`.`</mask>
+      <mask>``</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
       <mask>*.pm, *</mask>
       <mask>*.pm, *.</mask>
       <mask>*.pm, *.j</mask>
       <mask>*.pm, *.js</mask>
       <mask>*.pm, *.js,</mask>
+      <mask>*.pm, *.js,</mask>
       <mask>*.pm, *.js, *</mask>
+      <mask>*.pm, *.js, *.th</mask>
+      <mask>*.pm, *.js, *.t</mask>
       <mask>*.pm, *.js, *.</mask>
+      <mask>*.pm, *.js, *.h</mask>
+      <mask>*.pm, *.js, *.hm</mask>
       <mask>*.pm, *.js, *.ht</mask>
       <mask>*.pm, *.js, *.html</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm</mask>
-      <mask>**.pm</mask>
-      <mask>*.*.pm</mask>
-      <mask>*.j*.pm</mask>
-      <mask>*.js*.pm</mask>
-      <mask>*.js,*.pm</mask>
-      <mask>*.js, *.pm</mask>
-      <mask>10002</mask>
-      <mask>1000</mask>
-      <mask>^</mask>
-      <mask>^.*</mask>
-      <mask>^.</mask>
-      <mask>^.c</mask>
-      <mask>^.cs</mask>
-      <mask>^.csv</mask>
-      <mask>^[.csv</mask>
-      <mask>^[.csv]</mask>
+      <mask>*.pm, *.js, *.pm, *.js, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
