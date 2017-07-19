@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ExcludeCompiledFiles" />
-    <option name="defaultScopeName" value="ExcludeCompiledFiles" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.pm, *.js, *.html" />
     <recentFileMasks>
       <mask>.p</mask>
