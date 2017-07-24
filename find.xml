@@ -6,7 +6,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
-    <option name="FILE_MASK" value="*.pm, *.pm, *.js, *.html" />
+    <option name="FILE_MASK" value="*.pm, *.js, *.html" />
     <recentFileMasks>
       <mask>.pm,</mask>
       <mask>.pm</mask>
@@ -28,7 +28,6 @@
       <mask>*.pm, *.js, *.</mask>
       <mask>*.pm, *.js, *.h</mask>
       <mask>*.pm, *.js, *.ht</mask>
-      <mask>*.pm, *.js, *.html</mask>
       <mask>*.pm</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
@@ -38,6 +37,7 @@
       <mask>*.pm, *.j</mask>
       <mask>*.pm, *.js</mask>
       <mask>*.pm, *.pm, *.js, *.html</mask>
+      <mask>*.pm, *.js, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
