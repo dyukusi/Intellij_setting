@@ -6,9 +6,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
-    <option name="FILE_MASK" value="*.pm" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.pm, *.js,, *.html</mask>
       <mask>*.pm, *.js,</mask>
       <mask>*.pm, *.js,</mask>
       <mask>*.pm, *.js,</mask>
@@ -34,10 +33,11 @@
       <mask>*.pm, *.t, *.js</mask>
       <mask>*</mask>
       <mask>*.pl</mask>
-      <mask>*.p</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.pm</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
