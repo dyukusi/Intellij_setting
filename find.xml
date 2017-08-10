@@ -2,23 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="ExcludeCompiledFiles" />
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
     <recentFileMasks>
-      <mask>*.pm, *.</mask>
-      <mask>*.pm, *.t</mask>
-      <mask>*.pm, *.t,</mask>
-      <mask>*.pm, *.t,</mask>
-      <mask>*.pm, *.t, *</mask>
-      <mask>*.pm, *.t, *.</mask>
-      <mask>*.pm, *.t, *.js</mask>
-      <mask>*.t</mask>
-      <mask>*.j</mask>
-      <mask>*.p;</mask>
-      <mask>*.pl</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*</mask>
       <mask>*.pm, *.js, *.html</mask>
       <mask>*.pm,</mask>
@@ -26,15 +14,29 @@
       <mask>*.pm,</mask>
       <mask>.pm</mask>
       <mask>*.p</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
       <mask>*.js, *.pm</mask>
       <mask>*.pm</mask>
       <mask>*.pm</mask>
       <mask>*.</mask>
+      <mask>*.js.</mask>
       <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,</mask>
+      <mask>*.js, *h</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.h</mask>
+      <mask>*.js, *.ht</mask>
+      <mask>*.js, *.htmlsa</mask>
+      <mask>*.js, *.htmls</mask>
+      <mask>*.js, *.html</mask>
+      <mask>*.js, *.html,</mask>
+      <mask>*.js, *.html,</mask>
+      <mask>*.js, *.html, *</mask>
+      <mask>*.js, *.html, *.</mask>
+      <mask>*.js, *.html, *.p</mask>
+      <mask>*.js, *.html, *.pm</mask>
     </recentFileMasks>
   </component>
 </application>
