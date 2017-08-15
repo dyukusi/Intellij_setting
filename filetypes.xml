@@ -9,6 +9,7 @@
       <mapping pattern="MagicBradeRapidFire" type="PLAIN_TEXT" />
       <mapping pattern="MasterMissMerge" type="PLAIN_TEXT" />
       <mapping pattern="bnet_api_profile_response_example" type="PLAIN_TEXT" />
+      <mapping pattern="memo" type="PLAIN_TEXT" />
       <mapping pattern="ApplyMasterDataInWorkFolder" type="PLAIN_TEXT" />
       <mapping pattern="summary" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
