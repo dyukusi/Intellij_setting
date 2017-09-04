@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default" />
-    <option name="defaultScopeName" value="Default" />
+    <option name="customScope" value="ExcludeCompiledFiles" />
+    <option name="defaultScopeName" value="ExcludeCompiledFiles" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Default" />
+    <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
     <recentFileMasks>
       <mask>*.pm, @</mask>
       <mask>*.pm, *.p</mask>
