@@ -7,25 +7,14 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
     <recentFileMasks>
-      <mask>*.pm, *.j</mask>
-      <mask>*.pm, *.js</mask>
-      <mask>*.pm, *.js,</mask>
-      <mask>*.pm, *.js,</mask>
-      <mask>*.pm, *.js, *</mask>
       <mask>*.pm, *.js, *.</mask>
       <mask>*.pm, *.js, *.p</mask>
       <mask>*.pm, *.js, *.pl</mask>
       <mask>, *.js, *.pl</mask>
       <mask>*.js, *.pl</mask>
       <mask>*.js, *.pl</mask>
-      <mask>*.js, *.p</mask>
       <mask>*</mask>
       <mask>*.p</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
       <mask>*.js, *.h</mask>
       <mask>*.js, *.ht</mask>
       <mask>*.js, *.html</mask>
@@ -36,6 +25,17 @@
       <mask>*.pm</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*.js. *</mask>
+      <mask>*.js.</mask>
+      <mask>*.js.</mask>
+      <mask>*.js,</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.p</mask>
+      <mask>*.js, *.pm</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
