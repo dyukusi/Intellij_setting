@@ -6,9 +6,9 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="FILE_MASK" value="*.js, *.pm" />
     <recentFileMasks>
       <mask>*</mask>
-      <mask>*.js, *.h</mask>
       <mask>*.om</mask>
       <mask>*.o</mask>
       <mask>*.m</mask>
@@ -21,8 +21,6 @@
       <mask>*.js,</mask>
       <mask>*.js, +</mask>
       <mask>*.js,</mask>
-      <mask>*.js, *.p</mask>
-      <mask>*.js, *.pm</mask>
       <mask>*.js,*.pm</mask>
       <mask>*.pm</mask>
       <mask>*.pm</mask>
@@ -34,9 +32,12 @@
       <mask>*.js, *</mask>
       <mask>*.js, *.t</mask>
       <mask>*.js, *.tm</mask>
-      <mask>*.js, *.</mask>
       <mask>*.js, *.ht</mask>
       <mask>*.js, *.html</mask>
+      <mask>*.js, *.h</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *.p</mask>
+      <mask>*.js, *.pm</mask>
     </recentFileMasks>
   </component>
 </application>
