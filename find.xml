@@ -3,10 +3,12 @@
     <option name="customScope" value="ExcludeCompiledFiles" />
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
-    <option name="FILE_MASK" value="*.js, *.pm" />
+    <option name="FILE_MASK" value="*.pm" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.om</mask>
@@ -21,9 +23,6 @@
       <mask>*.js,</mask>
       <mask>*.js, +</mask>
       <mask>*.js,</mask>
-      <mask>*.js,*.pm</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
@@ -38,6 +37,9 @@
       <mask>*.js, *.</mask>
       <mask>*.js, *.p</mask>
       <mask>*.js, *.pm</mask>
+      <mask>*.js,*.pm</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
