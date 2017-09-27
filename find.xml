@@ -8,8 +8,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="FILE_MASK" value="*.t" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>*.om</mask>
       <mask>*.o</mask>
       <mask>*.m</mask>
@@ -22,8 +22,6 @@
       <mask>*.js,</mask>
       <mask>*.js, +</mask>
       <mask>*.js,</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.js,</mask>
@@ -39,6 +37,9 @@
       <mask>*.js,*.pm</mask>
       <mask>*.pm</mask>
       <mask>*.pm</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
     </recentFileMasks>
   </component>
 </application>
