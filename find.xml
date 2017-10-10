@@ -4,13 +4,8 @@
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="FILE_MASK" value="*.pm, *.js" />
     <recentFileMasks>
-      <mask>*.om</mask>
-      <mask>*.o</mask>
-      <mask>*.m</mask>
-      <mask>*.js. *</mask>
-      <mask>*.js.</mask>
-      <mask>*.js.</mask>
       <mask>*.js,</mask>
       <mask>*.js,</mask>
       <mask>*.js,</mask>
@@ -35,6 +30,12 @@
       <mask>*.</mask>
       <mask>*.pm</mask>
       <mask>*.pm</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm, *</mask>
+      <mask>*.pm, *.</mask>
+      <mask>*.pm, *.j</mask>
+      <mask>*.pm, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
