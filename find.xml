@@ -1,37 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="ExcludeCompiledFiles" />
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
-    <option name="FILE_MASK" value="*.js, *.pm" />
+    <option name="FILE_MASK" value="*.pm, *.js" />
     <recentFileMasks>
-      <mask>*.js, *.tm</mask>
       <mask>*.js, *.ht</mask>
       <mask>*.js, *.html</mask>
       <mask>*.js, *.h</mask>
       <mask>*.js, *.p</mask>
       <mask>*.js,*.pm</mask>
       <mask>*.t</mask>
-      <mask>*.p</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.js,</mask>
       <mask>*.js,</mask>
       <mask>*.pm</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm,</mask>
-      <mask>*.pm, *</mask>
-      <mask>*.pm, *.</mask>
-      <mask>*.pm, *.j</mask>
-      <mask>*.pm, *.js</mask>
       <mask>*.js</mask>
       <mask>*.js,</mask>
       <mask>*.js,</mask>
@@ -40,6 +25,17 @@
       <mask>*.js, *.l</mask>
       <mask>*.js, *.</mask>
       <mask>*.js, *.pm</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm,</mask>
+      <mask>*.pm, *</mask>
+      <mask>*.pm, *.p</mask>
+      <mask>*.pm, *.</mask>
+      <mask>*.pm, *.j</mask>
+      <mask>*.pm, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
