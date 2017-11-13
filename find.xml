@@ -3,8 +3,6 @@
     <option name="customScope" value="ExcludeCompiledFiles" />
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
@@ -26,10 +24,7 @@
       <mask>*pm, *</mask>
       <mask>*pm, *j</mask>
       <mask>*pm, *js</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pm</mask>
       <mask>*.pm,</mask>
@@ -39,6 +34,9 @@
       <mask>*.pm, *.</mask>
       <mask>*.pm, *.js</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
