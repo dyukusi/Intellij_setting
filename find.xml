@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*pm, *j</mask>
       <mask>*pm, *js</mask>
