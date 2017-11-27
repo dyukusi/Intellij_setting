@@ -2,10 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="ExcludeCompiledFiles" />
     <option name="defaultScopeName" value="ExcludeCompiledFiles" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="FILE_MASK" value="*.pm" />
     <recentFileMasks>
       <mask>*pm, *j</mask>
       <mask>*pm, *js</mask>
@@ -13,7 +12,6 @@
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
-      <mask>*.pm</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,</mask>
@@ -29,14 +27,15 @@
       <mask>*.js,</mask>
       <mask>*.pl</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
       <mask>*.htl</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
