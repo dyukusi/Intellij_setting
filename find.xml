@@ -15,10 +15,7 @@
       <mask>*.js, *.p</mask>
       <mask>*.pl</mask>
       <mask>*.htl</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.js,</mask>
       <mask>*.js,</mask>
       <mask>*.js, s</mask>
@@ -35,8 +32,11 @@
       <mask>*.j</mask>
       <mask>*.pm</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
