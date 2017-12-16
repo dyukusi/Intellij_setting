@@ -9,17 +9,18 @@
       <mapping pattern="MagicBradeRapidFire" type="PLAIN_TEXT" />
       <mapping pattern="MasterMissMerge" type="PLAIN_TEXT" />
       <mapping pattern="bnet_api_profile_response_example" type="PLAIN_TEXT" />
+      <mapping pattern="memo" type="PLAIN_TEXT" />
       <mapping pattern="ApplyMasterDataInWorkFolder" type="PLAIN_TEXT" />
       <mapping pattern="summary" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
-      <mapping pattern="access_structure" type="PLAIN_TEXT" />
       <mapping pattern="diff_check" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="ladder_profile_response_example" type="PLAIN_TEXT" />
-      <mapping pattern="memo" type="PLAIN_TEXT" />
+      <mapping pattern="access_structure" type="PLAIN_TEXT" />
       <mapping pattern="MorningMTG" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="motd" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="json_backup" type="PLAIN_TEXT" />
     </extensionMap>
