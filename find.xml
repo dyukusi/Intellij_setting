@@ -1,26 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ExcludeCompiledFiles" />
-    <option name="defaultScopeName" value="ExcludeCompiledFiles" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.pm, *</mask>
-      <mask>*.pm, *.</mask>
-      <mask>*.pm, *.j</mask>
       <mask>*.pm, *.js</mask>
       <mask>*.js, *.pm</mask>
       <mask>*.js, *.p</mask>
-      <mask>*.pl</mask>
       <mask>*.htl</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.js,</mask>
       <mask>*.js,</mask>
       <mask>*.js, s</mask>
@@ -33,12 +25,20 @@
       <mask>p</mask>
       <mask>m</mask>
       <mask>.</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.pl</mask>
       <mask>*</mask>
+      <mask>*.omg</mask>
+      <mask>*.om</mask>
+      <mask>*.o</mask>
+      <mask>*.j</mask>
+      <mask>*.pm</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
