@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ExceptCompiledFiles" />
-    <option name="defaultScopeName" value="ExceptCompiledFiles" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="ExceptCompiledFiles" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.js, *.pm</mask>
       <mask>*.js, *.p</mask>
