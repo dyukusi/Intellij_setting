@@ -1,40 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ExcludeCompiledFiles" />
-    <option name="defaultScopeName" value="ExcludeCompiledFiles" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="ExcludeCompiledFiles" />
-    <recentFileMasks>
-      <mask>*.js, *.pm</mask>
-      <mask>*.js, *.p</mask>
-      <mask>*.htl</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, s</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
-      <mask>*.js, *.h</mask>
-      <mask>*.js, *.ht</mask>
-      <mask>*.js, *.html</mask>
-      <mask>p</mask>
-      <mask>m</mask>
-      <mask>.</mask>
-      <mask>*.pl</mask>
-      <mask>*.omg</mask>
-      <mask>*.om</mask>
-      <mask>*.o</mask>
-      <mask>*.pm</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.g</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
