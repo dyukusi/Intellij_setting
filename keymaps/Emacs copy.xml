@@ -30,6 +30,10 @@
   </action>
   <action id="Console.TableResult.AddColumn" />
   <action id="DatabaseView.CopyAction" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -83,9 +87,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoSuperMethod" />
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
+  <action id="GotoTypeDeclaration" />
   <action id="GuiDesigner.Duplicate" />
   <action id="InsertLiveTemplate" />
   <action id="MaximizeToolWindow" />
