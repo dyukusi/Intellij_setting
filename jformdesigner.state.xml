@@ -7,11 +7,15 @@
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
-      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
       <node name="forms">
         <entry key="paletteexpanded926511873" value="components,containers,windows,menus,jgoodies,binding" />
-        <entry key="paletteexpanded617199453" value="components,menus" />
+        <entry key="paletteexpanded617199453" value="components,containers,windows,menus" />
+        <entry key="selection617199453" value="label1" />
+        <entry key="paletteexpanded355747097" value="components,containers" />
+        <entry key="selection355747097" value="button1" />
       </node>
     </node>
   </component>
