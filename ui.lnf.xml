@@ -5,6 +5,7 @@
   </component>
   <component name="UISettings">
     <option name="FONT_SCALE" value="1.0" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1202" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
