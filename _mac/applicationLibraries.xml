@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="StarCraft2LogsClawler-1.0-SNAPSHOT">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/git/StarCraft2LogsClawler/target/StarCraft2LogsClawler-1.0-SNAPSHOT.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
