@@ -16,6 +16,7 @@
       <mapping pattern="ApplyMasterDataInWorkFolder" type="PLAIN_TEXT" />
       <mapping pattern="summary" type="PLAIN_TEXT" />
       <mapping pattern="he" type="PLAIN_TEXT" />
+      <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="diff_check" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="ladder_profile_response_example" type="PLAIN_TEXT" />
