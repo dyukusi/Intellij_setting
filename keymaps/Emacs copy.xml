@@ -104,6 +104,10 @@
   <action id="GuiDesigner.Duplicate" />
   <action id="InsertLiveTemplate" />
   <action id="MaximizeToolWindow" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
@@ -112,6 +116,10 @@
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta left" />
