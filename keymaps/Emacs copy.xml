@@ -4,6 +4,11 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="alt p" />
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -40,6 +45,9 @@
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
@@ -85,6 +93,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl f" />
@@ -95,6 +104,10 @@
   <action id="GuiDesigner.Duplicate" />
   <action id="InsertLiveTemplate" />
   <action id="MaximizeToolWindow" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
@@ -103,6 +116,10 @@
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta left" />
