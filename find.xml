@@ -1,40 +1,22 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.js, *.pm</mask>
-      <mask>*.js, *.p</mask>
-      <mask>*.htl</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, s</mask>
-      <mask>*.js,</mask>
-      <mask>*.js, *</mask>
-      <mask>*.js, *.</mask>
-      <mask>*.js, *.h</mask>
-      <mask>*.js, *.ht</mask>
-      <mask>*.js, *.html</mask>
-      <mask>p</mask>
-      <mask>m</mask>
-      <mask>.</mask>
-      <mask>*.pl</mask>
-      <mask>*.omg</mask>
-      <mask>*.om</mask>
-      <mask>*.o</mask>
-      <mask>*.pm</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.g</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.js,*.css,*.ejs</mask>
   </component>
 </application>
