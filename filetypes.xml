@@ -22,6 +22,7 @@
       <mapping pattern="RakutenGame.js" type="PLAIN_TEXT" />
       <mapping pattern="ladder_profile_response_example" type="PLAIN_TEXT" />
       <mapping pattern="diff_check" type="PLAIN_TEXT" />
+      <mapping pattern="backup" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
       <mapping pattern="ladder_api" type="PLAIN_TEXT" />
